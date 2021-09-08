@@ -20,6 +20,6 @@ print("")
 # This shows SYNTAX_ERROR.
 # REASON: Because I didn't put any message in the string that comes outr as a output.
 # REASON: Because  string is " EMPTY ".
-print('HELLO WORLD')
-# This shows SYNTAX_ERROR.
-# REASON: Because "QUOTATION MARKS" are missing
+print['HELLO WORLD']
+# This shows TYPE_ERROR.
+# REASON: Because "SQUARE BRACKETS" are used.
