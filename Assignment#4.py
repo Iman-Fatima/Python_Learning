@@ -51,3 +51,40 @@ number_2 = 4
 number_3 = number_1 ** number_2
 print(f'The exponentiation of the given numbers are: {number_3}')
 # The exponentiation of the given numbers are: 625
+
+
+
+# --> MODULUS:
+number_1 = 6
+number_2 = 4
+number_3 = number_1 % number_2
+print(f'The modulus of the given numbers are: {number_3}')
+# The modulus of the given numbers are: 2
+
+
+# # TASK 2:-
+# Make TWO calculators, supposing given two conditions
+
+#     Operand_1 > Operand_2
+#     Operand_1 < Operand_2
+
+# Comment your outputs in the program
+
+
+# ---> Operand_1 > Operand_2
+Operand_1 = 45
+Operand_2 = 44
+Operand_3 = Operand_1 > Operand_2
+print(f'In the given condition {Operand_1} is greater than {Operand_2}: {Operand_3}')
+# In the given condition 45 is greater than 44: True
+
+
+# ---> Operand_1 < Operand_2
+Operand_1 = 44
+Operand_2 = 45
+Operand_3 = Operand_1 < Operand_2
+print(f'In the given condition {Operand_1} is less than {Operand_2}: {Operand_3}')
+# In the given condition 44 is less than 45: True
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
