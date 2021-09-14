@@ -9,7 +9,10 @@ number3 = " #PYTHON_LEARNERS"
 final = number1+number2+number3
 print(number1), print(number2), print(number3)
 
-
+# <--------------- OUTPUT --------------->  
+# Welcome to the new
+# World of leaners
+#  #PYTHON_LEARNERS
 
 
 
@@ -41,6 +44,7 @@ print(type(height))
 # <class 'str'>
 # <class 'int'>
 # <class 'float'>
+
 
 # Q4
 # Add three different integers and print the result.
