@@ -19,14 +19,28 @@ print(number1), print(number2), print(number3)
 # Print Data-Type of all the variables used in your program. e.g. int etc.
 
 
-
-name = 'IMAN FATIMA'
+name = ' My name is IMAN FATIMA'
 age = 21
 height = 5.3 
+print(name), print("Age = ", age), print("Height = ",height)
+
+# <--------------- OUTPUT --------------->  
+
+# My name is IMAN FATIMA
+# Age =  21
+# Height =  5.3
+
+
+# Datatype of above variables:-
+
 print(type(name))
 print(type(age))
 print(type(height))
 
+# <--------------- OUTPUT --------------->  
+# <class 'str'>
+# <class 'int'>
+# <class 'float'>
 
 # Q4
 # Add three different integers and print the result.
