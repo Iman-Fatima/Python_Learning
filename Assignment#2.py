@@ -32,9 +32,11 @@ print(type(height))
 # Add three different integers and print the result.
 
 
-
 dominos_branches = 10
 cheezious_branches = 21
 almaidah_branches = 34
 total_branches = dominos_branches + cheezious_branches + almaidah_branches
 print(total_branches)
+
+# <--------------- OUTPUT --------------->  
+# 65
