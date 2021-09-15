@@ -1,4 +1,3 @@
-# TASK 1:-
 # Create a Mini Calculator that can operate on two operands and can perform:
 #     Addition
 #     Subtraction
@@ -10,7 +9,7 @@
 #     You Are Not Allowed To Use Third Variable For Storing Results
 #     Use Shorthand Method For Calculations 
 
-
+# TASK 1:-
 #  Operand_1 > Operand_2
 # --> ADDITION:
 
