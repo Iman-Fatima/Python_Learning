@@ -22,7 +22,11 @@ first_name = 'IMAN'
 last_name = ' FATIMA'
 age = 21
 print(f"My first name is  {first_name } which has the datatype of {type(first_name)} and my last name is {last_name} which has the datatype of {type(last_name)}")
-print(f"As you all know that my age is {age} its datatype is {type(age)}")
+print(f"As you all know that my age is {age} so, its datatype is {type(age)}")
+# <--------------- OUTPUT --------------->  
+# My first name is  IMAN which has the datatype of <class 'str'> and my last name is  FATIMA which has the datatype of <class 'str'>
+# As you all know that my age is 21 so, its datatype is <class 'int'>
+
 
 
 
