@@ -9,8 +9,6 @@
 #     Modulus
 #     You Are Not Allowed To Use Third Variable For Storing Results
 #     Use Shorthand Method For Calculations 
-# TASK 2:-
-#     Operand_1 < Operand_2
 
 
 #  Operand_1 > Operand_2
