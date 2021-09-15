@@ -7,6 +7,8 @@ first_name = 'IMAN'
 last_name = ' FATIMA'
 age = 21
 print(f"I am {first_name + last_name} and I am {age}")
+# <--------------- OUTPUT --------------->  
+# I am IMAN FATIMA and I am 21
 
 
 
