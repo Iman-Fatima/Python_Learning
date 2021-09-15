@@ -67,3 +67,41 @@ number_2 = number_1 % number_2
 print(f'The modulus of the given numbers are: { number_2}')
 # <--------------- OUTPUT --------------->  
 #  The modulus of the given numbers are: 1
+
+
+# ------------------------------------------------------------------------------------------------
+
+# TASK 2:-
+#     Operand_1 < Operand_2
+# --> ADDITION:
+
+number_1 = 5
+number_2 = 6
+number_2 = number_1 + number_2
+print(f"The sum of two variables {number_2}")
+# <--------------- OUTPUT --------------->  
+# The sum of the given numbers are: 11
+
+
+#  --> SUBTRACTION:
+number_2 = 6
+number_2 = number_1 - number_2
+print(f'The subtraction of the given numbers are: {number_2 }')
+# <--------------- OUTPUT --------------->  
+#  The subtraction of the given numbers are: -1
+
+
+#  --> MULTIPLICATION:
+number_2 = 6
+number_2 = number_1 * number_2
+print(f'The multiplication of the given numbers are: {number_2 }')
+# <--------------- OUTPUT --------------->  
+#  The multiplication of the given numbers are: 30
+
+
+#  --> DIVISION:
+number_2 = 6
+number_2 = number_1 / number_2
+print(f'The division of the given numbers are: {number_2 }')
+# <--------------- OUTPUT --------------->  
+#  The division of the given numbers are: 0.8333333333333334
