@@ -30,9 +30,9 @@ print(f"As you all know that my age is {age} so, its datatype is {type(age)}")
 
 
 
-# Q3
-# Print your complete information stored in self-explanatory variables. e.g. 
-# My name is Arham Rumi. I am 22 Years old by using f-string.
+# # Q3
+# # Print your complete information stored in self-explanatory variables. e.g. 
+# # My name is Arham Rumi. I am 22 Years old by using f-string.
 
 
 
@@ -45,3 +45,8 @@ print(f"My  name is  {first_name + last_name}.")
 print(f"I am {age} years old.")
 print(f"I am learning {course} from a few days.")
 print(f"{cousre_instructor} is our couser instructor.")
+# <--------------- OUTPUT ---------------> 
+# My  name is  IMAN FATIMA.
+# I am 21 years old.
+# I am learning  Python from a few days.
+# Mr. ARHAM RUMI  is our couser instructor.
