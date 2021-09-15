@@ -18,3 +18,5 @@ operand_1 = 5
 operand_2 = 5
 result = (operand_1 == operand_2)
 print(f"The given operands are equal (==) to each other : {result}")
+# <--------------- OUTPUT --------------->  
+# The given operands are equal (==) to each other : True
