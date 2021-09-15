@@ -17,6 +17,7 @@
 operand_1 = 5
 operand_2 = 5
 result = (operand_1 == operand_2)
-print(f"The given operands are equal (==) to each other : {result}")
+print(f"The given operands {operand_1} and {operand_2} are equal (==) to each other : {result}")
 # <--------------- OUTPUT --------------->  
-# The given operands are equal (==) to each other : True
+# The given operands 5 and 5 are equal (==) to each other : True
+
