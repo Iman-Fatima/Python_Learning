@@ -18,56 +18,55 @@
 
 number_1 = 6
 number_2 = 5
-print(f"The sum of two variables {number_1 + number_2}")
+number_2 = number_1 + number_2
+print(f"The sum of two variables {number_2}")
 # <--------------- OUTPUT --------------->  
 # The sum of the given numbers are: 11
 
 
 #  --> SUBTRACTION:
-number_1= number_1 - number_2
-print(f'The subtraction of the given numbers are: {number_1 }')
+number_2 = 5
+number_2 = number_1 - number_2
+print(f'The subtraction of the given numbers are: {number_2 }')
 # <--------------- OUTPUT --------------->  
 #  The subtraction of the given numbers are: 1
 
 
 #  --> MULTIPLICATION:
-
-number_1= number_1 * number_2
-print(f'The multiplication of the given numbers are: {number_1 }')
+number_2 = 5
+number_2 = number_1 * number_2
+print(f'The multiplication of the given numbers are: {number_2 }')
 # <--------------- OUTPUT --------------->  
 #  The multiplication of the given numbers are: 30
 
 
 #  --> DIVISION:
-number_1= number_1 / number_2
-print(f'The division of the given numbers are: {number_1 }')
+number_2 = 5
+number_2 = number_1 / number_2
+print(f'The division of the given numbers are: {number_2 }')
 # <--------------- OUTPUT --------------->  
 #  The division of the given numbers are: 1.2
 
 
 #  --> FLOOR DIVISION:
-
-print(f'The floor division of the given numbers are: {number_1 // number_2}')
+number_2 = 5
+number_2 = number_1 // number_2
+print(f'The floor division of the given numbers are: {number_2}')
 # <--------------- OUTPUT --------------->  
 #  The floor division of the given numbers are: 1
 
 
 #  --> EXPONENTIATION:
-
-print(f'The exponentiation of the given numbers are: {number_1 ** number_2}')
+number_2 = 5
+number_2 = number_1 ** number_2
+print(f'The exponentiation of the given numbers are: {number_2}')
 # <--------------- OUTPUT --------------->  
 #  The exponentiation of the given numbers are: 7776
 
 
 #  --> MODULUS:
-
-print(f'The modulus of the given numbers are: {number_1 % number_2}')
+number_2 = 5
+number_2 = number_1 % number_2
+print(f'The modulus of the given numbers are: { number_2}')
 # <--------------- OUTPUT --------------->  
 #  The modulus of the given numbers are: 1
-
-
-
-
-
-
-# ----------------------------------------------------------------------------------------------------------.
