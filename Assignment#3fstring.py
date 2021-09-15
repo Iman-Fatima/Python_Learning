@@ -12,7 +12,6 @@ print(f"I am {first_name + last_name} and I am {age}")
 
 
 
-
 # Q2
 # Print Data-Type of all the variables used in your program. e.g. int etc. by using f-string.
 
@@ -28,11 +27,9 @@ print(f"As you all know that my age is {age} so, its datatype is {type(age)}")
 # As you all know that my age is 21 so, its datatype is <class 'int'>
 
 
-
-
-# # Q3
-# # Print your complete information stored in self-explanatory variables. e.g. 
-# # My name is Arham Rumi. I am 22 Years old by using f-string.
+# Q3
+# Print your complete information stored in self-explanatory variables. e.g. 
+# My name is Arham Rumi. I am 22 Years old by using f-string.
 
 
 
@@ -50,3 +47,4 @@ print(f"{cousre_instructor} is our couser instructor.")
 # I am 21 years old.
 # I am learning  Python from a few days.
 # Mr. ARHAM RUMI  is our couser instructor.
+# ----------------------------------------------------------------------------------------------------------.
