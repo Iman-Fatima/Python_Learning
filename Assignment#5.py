@@ -71,6 +71,7 @@ print(f'The modulus of the given numbers are: { number_2}')
 
 # ------------------------------------------------------------------------------------------------
 
+
 # TASK 2:-
 #     Operand_1 < Operand_2
 # --> ADDITION:
@@ -105,3 +106,30 @@ number_2 = number_1 / number_2
 print(f'The division of the given numbers are: {number_2 }')
 # <--------------- OUTPUT --------------->  
 #  The division of the given numbers are: 0.8333333333333334
+
+
+#  --> FLOOR DIVISION:
+number_2 = 6
+number_2 = number_1 // number_2
+print(f'The floor division of the given numbers are: {number_2}')
+# <--------------- OUTPUT --------------->  
+#  The floor division of the given numbers are: 0
+
+
+#  --> EXPONENTIATION:
+number_2 = 6
+number_2 = number_1 ** number_2
+print(f'The exponentiation of the given numbers are: {number_2}')
+# <--------------- OUTPUT --------------->  
+#  The exponentiation of the given numbers are: 15625
+
+
+#  --> MODULUS:
+number_2 = 6
+number_2 = number_1 % number_2
+print(f'The modulus of the given numbers are: { number_2}')
+# <--------------- OUTPUT --------------->  
+#  The modulus of the given numbers are: 5
+
+
+# ----------------------------------------------------------------------------------------------------------.
