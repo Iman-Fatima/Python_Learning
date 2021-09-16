@@ -63,3 +63,15 @@ print(f" The given statement is: {result}")
 # <--------------- OUTPUT --------------->  
 # The operand 4 is Less than or equal (<=) to operand 5.
 #  The given statement is: True
+
+
+# ---> Less than:-
+operand_1 = 4
+operand_2 = 5
+result = (operand_1 < operand_2)
+print(f"The operand {operand_1} is Less than ( < )  operand {operand_2}.")
+print(f" The given statement is: {result}")
+# <--------------- OUTPUT --------------->  
+# The operand 4 is Less than ( < )  operand 5.
+#  The given statement is: True
+# ------------------------------------------------------------------------------------------------------.
