@@ -48,3 +48,11 @@ print(f"The given operands {operand_1} and {operand_2} are Less than or equal (<
 # <--------------- OUTPUT --------------->  
 #The given operands 4 and 5 are Less than or equal (<=) to each other : True
 
+
+# ---> Greater than to:
+operand_1 = 4
+operand_2 = 5
+result = (operand_1 > operand_2)
+print(f"The given operands {operand_1} and {operand_2} are Less than or equal (>) to each other : {result}")
+# <--------------- OUTPUT --------------->  
+#The given operands 4 and 5 are Less than or equal (>) to each other : True
