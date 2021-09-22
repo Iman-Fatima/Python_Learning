@@ -9,7 +9,6 @@
 #     10 - 8
 #     2
 
-
 OUTPUT
 
     Result of statement = calulated_result
