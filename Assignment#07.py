@@ -9,8 +9,8 @@
 #     10 - 8
 #     2
 
-OUTPUT
+# OUTPUT
 
-    Result of statement = calulated_result
+#     Result of statement = calulated_result
 
-Comment your outputs in the program
+# Comment your outputs in the program
