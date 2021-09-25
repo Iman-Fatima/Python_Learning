@@ -18,6 +18,6 @@ if marks >= 60:
     print("Congratulations! You have passed the examination, successfully.")
 # Congratulations! You have passed the examination, successfully.
 
-QUESTION 3
+# QUESTION 3
 #Suppose that you are a teacher, and you have make a list of all the students 
 # who did not pass the examination successfully. 
