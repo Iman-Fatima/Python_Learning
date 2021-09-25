@@ -21,3 +21,7 @@ if marks >= 60:
 # Problem 03:-
 # Suppose that you are a teacher, and you have make a list of all the students 
 # who did not pass the examination successfully. 
+
+total_marks = 100
+obtained_marks = 54
+criteria = obtained_marks < 55
