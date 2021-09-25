@@ -25,3 +25,4 @@ if marks >= 60:
 total_marks = 100
 obtained_marks = 54
 criteria = obtained_marks < 55
+# If students score less than 55% then they wouldn't pass.
