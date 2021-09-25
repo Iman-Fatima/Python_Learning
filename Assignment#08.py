@@ -4,3 +4,6 @@
 shopping = True
 #if a person is going for shopping
 
+if shopping:
+    print("Have a great day")
+# Have a great day
