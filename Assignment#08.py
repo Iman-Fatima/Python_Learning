@@ -26,3 +26,10 @@ total_marks = 100
 obtained_marks = 54
 criteria = obtained_marks < 55
 # If students score less than 55% then they wouldn't pass.
+
+if criteria:
+    print("Good Effort! But You Didn't Score Above The Required Criteria To Pass.")
+    print("NEVER_MIND! AND BEST OF LUCK FOR THE NEXT TURN.")
+# Good Effort! But You Didn't Score Above The Required Criteria To Pass. 
+# NEVER_MIND! AND BEST OF LUCK FOR THE NEXT TURN.
+# .......................................................................................................
