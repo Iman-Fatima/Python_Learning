@@ -12,3 +12,9 @@ else :
 # <--------------- OUTPUT --------------->  
 
 # Hurrah, you are allowed to watch IRON MAN 3.
+
+# REASON:-
+# According to the given condition only those people over 18 and below 30 to watch IRON MAN 3 
+# and this program fullfill the desired condition and showing hurra message for those who 
+# can watch the movie and show Awww Sorry message for those who can't watch the movie.
+
