@@ -21,3 +21,10 @@ else :
 # PROBLEM 02:-
 # Create a program that will allow people over 4 and below 25 or above 50 and below 60 to watch cartoons
 age = 35
+
+if age >4 and age <25 or age > 50 and age < 60:
+    print(f"Yayyy, you can watch cartoons.")
+else :
+    print(f"Oh, you can't watch cartoons.")
+
+    # <--------------- OUTPUT ---------------> 
