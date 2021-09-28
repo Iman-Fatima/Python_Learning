@@ -8,3 +8,7 @@ if age >18 and age <30:
 
 else :
     print(f"Awww Sorry, you are not llowed to watch IRON MAN 3.")
+
+# <--------------- OUTPUT --------------->  
+
+# Hurrah, you are allowed to watch IRON MAN 3.
