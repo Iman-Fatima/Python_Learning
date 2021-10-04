@@ -40,4 +40,14 @@ else :
 # PROBLEM 03:-
 # Suppose that you are a teacher, and you have make a list of all the students who scored 
 # above 60% and below 70% marks and those who scored above 90% in the examination.
-.
+
+marks = 98
+
+if marks > 60 and marks < 70 :
+    print (f"You got B-GRADE in  exams.")
+elif marks > 90 :
+    print(f"Congratulations! You got A+ GRADE in exams." )
+else :
+    print (f"Best of luck for the next turn." )
+    
+    # <--------------- OUTPUT --------------->
