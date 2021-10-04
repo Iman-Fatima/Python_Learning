@@ -28,3 +28,14 @@ else :
     print(f"Oh, you can't watch cartoons.")
 
     # <--------------- OUTPUT ---------------> 
+
+# Oh, you can't watch cartoons.
+# REASON:-
+# According to the given condition only those people over 4 and below 25 or above 50 
+# and below 60 to watch cartoons and this program fullfill the desired condition and showing different
+# messages for those who can or can't watch the CARTOONS.
+
+
+# PROBLEM 03:-
+# Suppose that you are a teacher, and you have make a list of all the students who scored 
+# above 60% and below 70% marks and those who scored above 90% in the examination.
