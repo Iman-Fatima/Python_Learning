@@ -40,3 +40,4 @@ else :
 # PROBLEM 03:-
 # Suppose that you are a teacher, and you have make a list of all the students who scored 
 # above 60% and below 70% marks and those who scored above 90% in the examination.
+.
